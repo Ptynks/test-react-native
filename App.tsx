@@ -88,6 +88,9 @@ function App(): React.JSX.Element {
           <Section title="J97">
              Thiên Lý ơi em co ở lại đây ko
           </Section>
+          <Section title="K">
+            ehe 
+          </Section>
           <LearnMoreLinks />
         </View>
       </ScrollView>
