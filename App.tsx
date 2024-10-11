@@ -77,7 +77,7 @@ function App(): React.JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>Ptymks</Text> ÈUHeuhuewfhiuhtrfihrihrighfjkhgj
+            Edit <Text style={styles.highlight}>Ptymks</Text> GAGAGAGAGAAGGGAGGAGAGGAGAG GÂUGUAGAGUAGAUGAU
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
