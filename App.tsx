@@ -76,8 +76,8 @@ function App(): React.JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Hahahahhahhah">
-            Edit <Text style={styles.highlight}>App.tsx</Text> nGÀN CÂU HỨA CHẮNG ĐC GÌ CUỐI CÙNG PHÁI CHIA LY
+          <Section title="Step One">
+            Edit <Text style={styles.highlight}>Ptymks</Text> GAGAGAGAGAAGGGAGGAGAGGAGAG GÂUGUAGAGUAGAUGAU
           </Section>
           <Section title="heheheheheh">
             <ReloadInstructions />
